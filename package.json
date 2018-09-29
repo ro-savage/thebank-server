@@ -1,0 +1,19 @@
+{
+  "name": "thebank-server",
+  "version": "0.0.1",
+  "description": "Cryptobank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bitcoin-core": "^2.0.0",
+    "fastify": "^1.12.1",
+    "fastify-cors": "^0.1.0",
+    "sql-template-strings": "^2.2.2",
+    "sqlite": "^3.0.0"
+  }
+}
